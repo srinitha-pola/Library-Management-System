@@ -1,7 +1,3 @@
-# Library-Management-System
-
-A Python-based Library Management System using tkinter for GUI and pandas for managing book and student data efficiently.
-
 # 📚 Library Management System
 
 A comprehensive **Library Management System** built with **Python**, using `tkinter` for the graphical user interface and `pandas` for efficient data management. This system streamlines the management of book inventories and student records, making it ideal for educational institutions and small libraries.
